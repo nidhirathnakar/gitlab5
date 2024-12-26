@@ -1,6 +1,2 @@
 hi
-hello
-welcome back
-today is thursday
-hello again
-tomorrow is saturday
+
